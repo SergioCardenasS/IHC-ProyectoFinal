@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QuestionMark" size="15.000000 19.723183" />
+    <ImageTarget name="Right_Octave2" size="15.000000 2.842640" />
+    <ImageTarget name="Left_Octave2" size="15.000000 3.108365" />
+    <ImageTarget name="Right_Octave" size="15.000000 2.841297" />
+    <ImageTarget name="Left_Octave" size="15.000000 3.510638" />
+    <ImageTarget name="Piano-Tuition-3" size="0.300000 0.032324" />
+    <ImageTarget name="Piano-Tuition-1" size="10.000000 5.623053" />
+  </Tracking>
+</QCARConfig>
